@@ -315,8 +315,8 @@ def send_email():
 
         mail = outlook.CreateItem(0)
         mail.To = correo_usuario
-        mail.Subject = "Commission Report"
-        mail.Body = "Please find the attached commission report."
+        mail.Subject = "Informe de Comisiones Calculadas"
+        mail.Body = "Resumen del Informe de Comisiones Calculadas para los meses seleccionados."
 
         # Seleccionar las columnas necesarias
         report_filtered = report[['month', 'commerce_name', 'commerce_id', 'commission', 'iva', 'total', 'commerce_email']]
