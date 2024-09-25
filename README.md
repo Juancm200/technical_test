@@ -1,3 +1,6 @@
+# VIDEO EJEMPLO DEL USO DE LA APLICACION
+https://youtu.be/h8Hl9OzCE9Q
+
 # Aplicación de Cálculo de Comisiones
 
 Esta aplicación ha sido desarrollada para **BATSEJ OPEN FINANCE S.A**, con el objetivo de automatizar el cálculo y cobro de comisiones basadas en las peticiones realizadas por las empresas contratantes. Proporciona una interfaz sencilla para gestionar condiciones, calcular comisiones y exportar los resultados a Excel. La totalidad de la aplicación está en inglés para generalizar su uso, pero las descripciones de las funciones están en español para entender su funcionalidad.
