@@ -17,7 +17,7 @@ Antes de ejecutar la aplicación, asegúrate de tener instalado:
 
 1. Clona este repositorio en tu máquina local:
     ```bash
-    git clone https://github.com/usuario/nombre-repositorio.git
+    git clone https://github.com/Juancm200/technical_test
     ```
 
 2. Instala las dependencias necesarias con el siguiente comando:
